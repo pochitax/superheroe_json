@@ -1,0 +1,15 @@
+[
+    {
+        "superheroes" : "Superman",
+        "avatar" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsuperman.fandom.com%2Fes%2Fwiki%2FSuperman_(DC_Extended_Universe)&psig=AOvVaw0E7z_hFvzov5VWeKNdAiba&ust=1625615739679000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKC39NiQzfECFQAAAAAdAAAAABAD"
+    }, {
+        "superheroes" : "Aquaman",
+        "avatar" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fhipertextual.com%2F2018%2F06%2Faquaman-orm-contaminacion-oceanos&psig=AOvVaw00RzF42zaRnbkQqGkrqwU8&ust=1625615818671000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIjCgf6QzfECFQAAAAAdAAAAABAD"
+    }, {
+        "superheroes" : "Supergirl",
+        "avatar" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tonica.la%2Fseries%2FSupergirl-anuncia-fecha-de-transmision-de-sus-episodios-finales-20210430-0010.html&psig=AOvVaw0b_nxHhDBYarf-TENC_j0J&ust=1625615858335000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJiY7ZGRzfECFQAAAAAdAAAAABAD"
+    }, {
+        "superheroes" : "Batman",
+        "avatar" : "https://www.google.com/url?sa=i&url=https%3A%2F%2Fas.com%2Fmeristation%2F2020%2F07%2F14%2Fnoticias%2F1594714732_417387.html&psig=AOvVaw0sqZx3RfyA_z-yw0-9uciP&ust=1625615900068000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCPiM0aaRzfECFQAAAAAdAAAAABAD"
+    }
+]
